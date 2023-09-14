@@ -1,0 +1,28 @@
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header-list{
+    gap: 38px;
+    display: flex;
+}
+.section-hero-list{
+    display: flex;
+    gap: 118px;
+}
+.shop-list-item{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.footer-list{
+    display: flex;
+    gap: 26px;
+}
+.popular-designers-list{
+    display: flex;
+    gap: 130px;
+}
